@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bday-app/static/css/main.e22ff496.css",
-    "main.js": "/bday-app/static/js/main.c02f3de1.js",
+    "main.js": "/bday-app/static/js/main.d86af2f1.js",
     "static/js/453.242d8488.chunk.js": "/bday-app/static/js/453.242d8488.chunk.js",
     "static/media/kaviVid1.mp4": "/bday-app/static/media/kaviVid1.db273822d08e29c9d211.mp4",
     "static/media/kavi7.jpg": "/bday-app/static/media/kavi7.e46e706e296c84892202.jpg",
@@ -14,11 +14,11 @@
     "static/media/kavi5.jpg": "/bday-app/static/media/kavi5.bf6cfdd8cdbcbcea1c0c.jpg",
     "index.html": "/bday-app/index.html",
     "main.e22ff496.css.map": "/bday-app/static/css/main.e22ff496.css.map",
-    "main.c02f3de1.js.map": "/bday-app/static/js/main.c02f3de1.js.map",
+    "main.d86af2f1.js.map": "/bday-app/static/js/main.d86af2f1.js.map",
     "453.242d8488.chunk.js.map": "/bday-app/static/js/453.242d8488.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e22ff496.css",
-    "static/js/main.c02f3de1.js"
+    "static/js/main.d86af2f1.js"
   ]
 }
