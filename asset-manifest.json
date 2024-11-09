@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bday-site/static/css/main.e22ff496.css",
+    "main.js": "/bday-site/static/js/main.9e38d3df.js",
+    "static/js/453.242d8488.chunk.js": "/bday-site/static/js/453.242d8488.chunk.js",
+    "static/media/kaviVid1.mp4": "/bday-site/static/media/kaviVid1.db273822d08e29c9d211.mp4",
+    "static/media/kavi7.jpg": "/bday-site/static/media/kavi7.e46e706e296c84892202.jpg",
+    "static/media/kavi8.jpg": "/bday-site/static/media/kavi8.68632ee1c708e71a8ab0.jpg",
+    "static/media/kavi4.jpg": "/bday-site/static/media/kavi4.82d3aefd09e798647ba6.jpg",
+    "static/media/kavi1.jpg": "/bday-site/static/media/kavi1.41b00d9d19a11ff0cf1e.jpg",
+    "static/media/kavi6.jpg": "/bday-site/static/media/kavi6.e6d714d5613fa843e08d.jpg",
+    "static/media/kavi3.jpg": "/bday-site/static/media/kavi3.d82cb4a1bacdc01b0c63.jpg",
+    "static/media/kavi2.jpg": "/bday-site/static/media/kavi2.8020b1a49532e670ea60.jpg",
+    "static/media/kavi5.jpg": "/bday-site/static/media/kavi5.bf6cfdd8cdbcbcea1c0c.jpg",
+    "index.html": "/bday-site/index.html",
+    "main.e22ff496.css.map": "/bday-site/static/css/main.e22ff496.css.map",
+    "main.9e38d3df.js.map": "/bday-site/static/js/main.9e38d3df.js.map",
+    "453.242d8488.chunk.js.map": "/bday-site/static/js/453.242d8488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22ff496.css",
+    "static/js/main.9e38d3df.js"
+  ]
+}
